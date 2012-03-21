@@ -1,0 +1,12 @@
+[submodule "hots"]
+	path = hots
+	url = git://github.com/frabbit/hots.git
+[submodule "scutsCore"]
+	path = scutsCore
+	url = git://github.com/frabbit/scutsCore.git
+[submodule "scutsMCore"]
+	path = scutsMCore
+	url = git://github.com/frabbit/scutsMCore.git
+[submodule "scutsMacros"]
+	path = scutsMacros
+	url = git://github.com/frabbit/scutsMacros.git
