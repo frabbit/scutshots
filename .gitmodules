@@ -12,4 +12,4 @@
 	url = git://github.com/frabbit/scutsMacros.git
 [submodule "scutsData"]
 	path = scutsData
-	url = git@github.com:frabbit/scutsData.git
+	url = git://github.com/frabbit/scutsData.git
