@@ -10,6 +10,9 @@
 [submodule "scutsMacros"]
 	path = scutsMacros
 	url = git://github.com/frabbit/scutsMacros.git
-[submodule "scutsData"]
-	path = scutsData
-	url = git://github.com/frabbit/scutsData.git
+[submodule "scutsDs"]
+	path = scutsDs
+	url = git://github.com/frabbit/scutsDs.git
+[submodule "scutsReactive"]
+	path = scutsReactive
+	url = git://github.com/frabbit/scutsReactive.git
